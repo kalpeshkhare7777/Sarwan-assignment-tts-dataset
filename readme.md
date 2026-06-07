@@ -14,8 +14,13 @@ The dataset contains accurate, manually verified transcripts matched with semant
 *   **Audio Format:** WAV, 22050 Hz, mono, 16-bit PCM
 *   **Speaker Profiles:** Clean, single-speaker studio quality for both languages
 *   **Language Split:**
-    *   **Marathi:** ~30 minutes – Audiobook (*Shyamchi Aai* by Sane Guruji) | [Source Video](https://www.youtube.com/watch?v=SXfzVU2OoSE)
-    *   **Indian English:** ~30 minutes – Audiobook (*The Palace of Illusions* by Chitra Divakaruni) | [Source Video](https://www.youtube.com/watch?v=TlLyX_tHTrc)
+    *   **Marathi:** ~30 minutes – Audiobook (*Shyamchi Aai* by Sane Guruji) |
+    *    [Source Video](https://www.youtube.com/watch?v=SXfzVU2OoSE)
+    *    Text source : https://www.esahity.com/uploads/5/0/1/2/501218/shyamachi_aai.pdf
+      
+    *   **Indian English:** ~30 minutes – Audiobook (*The Palace of Illusions* by Chitra Divakaruni) |
+    *    [Source Video](https://www.youtube.com/watch?v=TlLyX_tHTrc)
+    *    Text source : https://dn760109.eu.archive.org/0/items/the-palace-of-illusions-com-v4-0/the-palace-of-illusions-com-v4-0.pdf
 
 ---
 
